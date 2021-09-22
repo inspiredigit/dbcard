@@ -309,7 +309,7 @@ background-color:#00A9FF;
 .othr_list #shop_now.show,
 .othr_list #google_pay.collapsing,
 .othr_list #shop_now.collapsing{
-display: flex;
+display: block;
 }
 .othr_list #shop_now .product_outer {
 padding: 0 3px;
