@@ -1,0 +1,43 @@
+.card_name { padding:50px 0 5px 0; border-radius:0px 0px 8px 8px; color:#FFF; margin:25px 0 10px 0; }
+
+.photo { width:150px; height:150px; border:3px solid rgb(150, 150, 150); position: absolute; }
+.cover_img { background-color:#000; }
+
+.card_view h1 { margin-top:15px; }
+
+.quick_btns>li>a, .share-menu {border:0px; padding: 10px 0 0 0; }
+
+.social_btns li a { border-radius:50%; }
+
+.payment_btns li a { border-radius:50%; }
+
+.hr1, .hr2 { display:none; }
+.hr1, .hr2 { margin:0; background-color:yellow; }
+
+.quick_link li { border-radius:4px; background-color: #FFF; }
+.quick_link li div.l { border-radius:3px 0 0 3px; border:0px; background-color:#ebedef;}
+
+.othr_list .ol_h { border-radius:3px; overflow:hidden; color:#FFF; }
+.othr_list .ol_h .l { background-color:#ebedef; width:15%; border-radius:3px 0 0 3px; }
+.othr_list .ol_h .p { background-color:#eef6fd; color:#000; line-height: 23px;}
+.othr_list .ol_v { background-color:#FFF; border:1px solid #c9cacc; border-top:0px; margin-top:-10px; border-radius:0 0 6px 6px; padding-top:15px !important; }
+
+#glry_info .glr-img-box h4 { border-left:1px solid #CCC; }
+.glr-img-box { margin-bottom:0; }
+
+.add-to-btn {}
+
+
+.save_btn{
+	border-radius: 18px;
+	padding: 6px 10px;
+	color: #fff;
+	border: 2px solid #fff;
+	font-size: 12px;
+	width: 29%;
+	float:left;
+}
+
+.save_btn i{
+	margin-right:5px;
+}
